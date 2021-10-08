@@ -1,0 +1,539 @@
+html {
+    scroll-behavior: smooth;
+  }
+#navicolor{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    background-color: rgb(6 6 27);
+    padding: 40px;
+    padding-bottom: 650px;
+    width: 200px;
+    font-size: large;
+}
+.image{
+    position: relative;
+    left: 1.05cm;
+    top: -5.7cm;  
+}
+.bgv{
+    position: relative;
+    left: 40px;
+    background: rgba(191, 198, 200, 0.705);
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+.logo{
+    position: relative;
+    left: -0.3cm;
+}
+.lgname{
+    position: relative;
+    
+    text-shadow: 10cm;
+    left: -0.3cm;
+    top: -6cm;
+    text-align: center;
+}
+.bgtwo{
+    position: relative;
+    left: 50px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    top: -2.9cm;
+
+}
+#font{
+    position: relative;
+    top: 90px;
+    color: white;
+    font-size: 18px;
+    line-height: 50px;
+    padding: 10px; 
+}
+#main{
+    position: fixed;
+    margin-left: 272px;
+    top: -10px;
+    z-index: -35;
+   
+}
+.tag .thank{
+    position: relative;
+    margin-left: 272px;  
+    
+    font-size: 40px;
+    text-align: center;
+    
+}
+.tag .name{
+    position: relative;
+    margin-left: 272px;
+    color: rgb(6 6 55);
+    margin-top: 5cm;
+    line-height: 0cm;
+      
+    
+    font-size: 40px;
+    
+    text-align: center;
+
+}
+.about{
+   position: relative;
+   margin-top: 18cm;  
+   
+   padding-top: 0cm;
+   border-radius: 5%;
+   
+   
+   background-color: rgb(210, 224, 224);
+   margin-left: 7.2cm;
+   height: 1000px;
+   margin-right: -0.2cm;
+}
+.about .aboutHead{
+    position: relative;
+    margin-left: 0px;
+    font-size: 55px;
+    top: 1cm;   
+    color: rgb(34 34 90);
+    margin-top: 1.0cm;    
+    text-align: center;
+    
+
+}
+
+.edu{
+    
+    position: relative;
+    margin-left: 7.2cm;
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(227, 227, 241);
+    padding-bottom: 3cm;
+    padding-top: 20px;
+    margin-top: 30px;
+    border-radius: 5%;
+    margin-right: -0.2cm;
+    
+}
+.edu .education{
+    color:rgb(34 34 90);
+}
+.edu .tenth{
+    position: relative;
+    margin-left: 3.0cm;
+    font-size: 25px;
+    text-align: left;
+    color:rgb(34 34 90);
+
+
+}
+.edu .year{
+    position: relative;
+    margin-left: 3.0cm;
+    font-size: 20px;
+    
+    text-align: left;
+    margin-top: -1.0cm;
+    
+}
+.edu .school{
+    font-size: 25px;
+    font-style: italic;
+    
+    text-align: left;
+    margin-left: 3.0cm;
+    margin-top: -0.5cm;
+}
+.edu .percent{
+  
+    text-align: left;
+    margin-left: 3.0cm;
+    font-size: 20px;
+    margin-top: -0.7cm;
+
+}
+.dottedline{
+    content:"";
+    position: absolute;
+    
+    margin-top: 190px;
+    margin-bottom: 180px;
+    
+    top: 35px;
+    bottom: 0;
+    left: 50%;
+    border-left: 4px dotted #444;
+}
+.edmainx{
+    margin-left: 2.5cm;
+}
+.edmainxii .twelth{
+    
+    text-align: right;
+    font-size:25px;
+    margin-right: 3.0cm;
+    color:rgb(34 34 90);
+
+}
+.yearxii{
+    text-align: right;
+    font-size: 29px;
+    margin-right: 3.0cm;
+    margin-top: -1.3cm;
+}
+
+.smalldot{
+    position: relative;
+    background: rgba(53, 93, 104);
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    left: -15.5px;
+}
+.smalldotsecond{
+    position: relative;
+    background: rgba(53, 93, 104);
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    left: -15.5px;
+    position: relative;
+    top: 4.35cm;
+}
+.smalldotthird{
+    position: relative;
+    background: rgba(53, 93, 104);
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    left: -15.5px;
+    position: relative;
+    top: 8.8cm;
+}
+.schoolxii{
+    text-align: right;
+    margin-right: 3.0cm;
+    margin-top: -0.2cm;
+    font-size: 25px;
+    font-style: italic;
+}
+.perxii{
+    text-align: right;
+    margin-right: 3.0cm;
+    margin-top: -0.7cm;
+    font-size: 20px;
+}
+
+.permain{
+    margin-left: 0cm;
+    margin-top: 3cm;
+}
+
+.para{
+    position: relative;
+    margin-left: 260px;
+    margin-top: 04.5cm;
+    
+    
+    font-size: 25px;
+    width: 29cm;
+   
+    
+    text-align: center;
+    
+    
+    
+    top: -100px;
+}
+.navbar{
+    position: relative;
+    top: -5cm;
+    
+}
+#personal{
+    position: relative;
+    margin-left: 272px;
+    
+    top: -10px;
+    font-size: 25px;
+    line-height: 60px;
+
+}
+#infovec{
+    position: relative;
+    margin-left: -14px;
+
+    top: 25px;
+}
+.allpersonal{
+    position: relative;
+    top: -6cm;
+    
+    margin-left: 7.2cm;
+    
+}
+.ablogobg{
+    position: relative;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15%;
+    width: 180px;
+    height: 180px;
+    top: 5.8cm;
+    
+    
+    
+
+    
+    
+}
+.title{
+    text-align: right;
+}
+.sk{
+    background-color:rgb(210, 224, 224);
+    border-radius: 5%;
+   margin-left: 7.2cm;
+   margin-right: -0.2cm;
+   padding-bottom: 3cm;
+   padding-top: 10px;
+   margin-top: 1cm;
+  
+    
+}
+.sk .content{
+    
+    font-size: 35px;
+    
+    
+    
+    
+}
+.sk .blender{
+    margin-left: 2.7cm;
+}
+.sk .aftereffect{
+    margin-left: 2cm;
+    
+
+}
+.sk .photoshop{
+    margin-left: 3.5cm;
+}
+.sk .premiere{
+    margin-left: 2cm;
+
+}
+.sk .markup{
+    position: relative;
+    margin-left: 12.8cm;
+    top: 1cm;
+}
+.sk .java{
+    position: relative;
+    margin-left: 8.3cm;
+    left: -0.8cm;
+    top: 1cm;
+
+    
+}
+
+.sk .skill{
+    
+    font-size: 50px;
+    text-align: center;
+    color: rgb(6,6,60);
+
+}
+
+.box1{
+    position: relative;
+    left: 95px;
+}
+
+.box1 .cir svg circle{
+    position: relative;
+    fill: none;
+    stroke: rgb(38, 32, 92);
+    stroke-width: 10px;
+    background-color: black;
+    transform: translate(5px, 5px);
+    
+    
+    
+}
+.box2{
+    position: relative;
+    left: 95px;
+}
+.box2 .cir svg circle{
+    position: relative;
+    fill: none;
+    stroke: rgb(38, 32, 92);
+    stroke-width: 10px;
+    background-color: black;
+    transform: translate(5px, 5px);
+    
+    
+}
+.box3{
+    position: relative;
+    left: 100px;
+}
+.box3 .cir svg circle{
+    position: relative;
+    fill: none;
+    stroke: rgb(38, 32, 92);
+    stroke-width: 10px;
+    background-color: black;
+    transform: translate(5px, 5px);
+    
+    
+}
+.box4{
+    position: relative;
+    left: 110px;
+}
+.box4 .cir svg circle{
+    position: relative;
+    fill: none;
+    stroke: rgb(38, 32, 92);
+    stroke-width: 10px;
+    background-color: black;
+    transform: translate(5px, 5px);
+    
+    
+}
+.box5{
+    position: relative;
+    left: 455px;
+    top: 1cm;
+}
+.box5 .cir svg circle{
+    position: relative;
+    fill: none;
+    stroke: rgb(38, 32, 92);
+    stroke-width: 10px;
+    background-color: black;
+    transform: translate(5px, 5px);
+    
+    
+}
+.box6{
+    position: relative;
+    left: 450px;
+    top: 1cm;
+}
+.box6 .cir svg circle{
+    position: relative;
+    fill: none;
+    stroke: rgb(38, 32, 92);
+    stroke-width: 10px;
+    background-color: black;
+    transform: translate(5px, 5px);
+    
+    
+}
+.box5 .num5{
+    position: relative;
+    left: -7cm;
+    top: -1.7cm;
+}
+.box6 .num6{
+    position: relative;
+    left: -7cm;
+    top: -1.7cm;
+}
+
+.mainfotter{
+    
+    margin-left: 7.2cm;
+    margin-right: -0.2cm;
+    background-color: rgb(227, 227, 241);
+    border-radius: 5%;
+    padding-left: 20px;
+    margin-bottom: 1cm;
+    
+}
+.contact{
+    position: relative;
+    top: -1.5cm;
+    padding-top: 1cm;
+    
+    margin-top: 1cm;
+    font-size: 33px;
+    text-align: center;
+    color: rgb(6,6,60);
+    
+    
+}
+
+
+.num{
+    position: relative;
+    left: -6.75cm;
+    top: -68px;
+    font-size: 30px;
+    
+}
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    resize: vertical 
+  }
+  
+  
+  input[type=submit] {
+    background-color: rgb(6,6,60);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  
+  .container {
+    position: relative;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-right: 20cm;
+    left: 19cm;
+    top: -7.5cm;
+    
+  }
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+nav ul li:hover{
+    font-size: larger;
+    border-radius: 1px;
+    border-color: #e4ffb2; 
+    color: rgb(118, 182, 255);
+}
+nav ul li a:hover{
+    color: rgb(118, 182, 255);
+}
+
+.main_font{
+    font-family: 'Poppins', sans-serif;
+}
